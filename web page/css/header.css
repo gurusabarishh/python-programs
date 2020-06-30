@@ -1,0 +1,25 @@
+.navbar{
+    background-color: #101820ff;
+    border-bottom-width: 1px;
+    border-bottom-style: groove;
+    border-color: darkgrey;
+}
+.navbar-brand{
+    color: white !important;
+    font-weight: bolder;
+    font-size: 30px;
+}
+.nav-item{
+    font-size: 20px;
+}
+.nav-link{
+    color: white !important;
+}
+.button-blog{
+    border-color: orange;
+    color: orange;
+    width: 80px;
+}
+.button-blog:hover{
+    background-color: orange;
+}

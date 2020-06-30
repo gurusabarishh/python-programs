@@ -1,0 +1,21 @@
+.text-muted{
+    font-size: 19px;
+}
+.program{
+    padding: 2%;
+}
+.col-sm{
+    text-align: center;
+}
+.full{
+    padding: 2%;
+}
+
+@media only screen and (max-width: 600px){
+    .lead{
+        font-size: 15px;
+    }
+    .text-muted{
+        font-size: 17px;
+    }
+}

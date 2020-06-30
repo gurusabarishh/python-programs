@@ -1,0 +1,8 @@
+.footer{
+    background-color: darkgray;
+    padding: 2%;
+    text-align: center;
+}
+.btn-social-icon:hover{
+    background-color: transparent;
+}
