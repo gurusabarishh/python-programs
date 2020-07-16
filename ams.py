@@ -10,4 +10,7 @@ ams = 0
 for i in range(order):
     ams = pow(int(strnumber[i]),order) + ams
 
-print("amstrong number") if ams==number else print("not amstrong")
+if(ams==number):
+    print("amstrong number")
+else:
+    print("not amstrong")
